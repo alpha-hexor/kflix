@@ -1,0 +1,7 @@
+beautifulsoup4
+pycryptodomex
+requests
+termcolor
+tqdm
+yarl
+lxml
