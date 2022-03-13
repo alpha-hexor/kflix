@@ -22,5 +22,5 @@ A python program to watch korean and japanese show
 ***
 
 ## Other Files
-1. **Downloads** :- This is where the animes will be downloaded
+1. **Downloads** :- This is where the shows will be downloaded
 
